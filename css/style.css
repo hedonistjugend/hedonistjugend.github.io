@@ -1,0 +1,152 @@
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    font-size: 20px;
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.3;
+}
+
+h1 {
+    font-weight: 600;
+}
+
+h1, h2 {
+    color: #1A202B;
+    margin: 0;
+    padding: 8px 0;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+h3 {
+    margin: 0;
+    color: #4A5567;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 32px; 
+}
+
+section {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.mybit {
+    background: #2E58DB;
+}
+
+.tokenville {
+    background: #FFBE28;
+}
+
+.botanico {
+    background: #182A36;
+}
+
+.aggregion {
+    background: #F68C1E;
+}
+
+.blackish {
+    color: #111111;
+}
+
+.white {
+    color: white;
+}
+
+.no-bottom-padding {
+    padding-bottom: 0px;
+}
+
+.description {
+    margin: 0 auto;
+    max-width: 740px;
+    padding: 16px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+p {
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    color: #4A5567;
+}
+
+
+
+a {
+    color: #6C40FE;
+    text-decoration: none;
+    font-weight: 500;    
+  }
+  
+  a:hover {
+    text-decoration: none;
+    border-bottom: 2px solid #6C40FE;
+  }
+
+  a:visited {
+    color: #6C40FE;
+    text-decoration: none;
+  }
+  
+  .links {
+    margin-top: 8px;
+  }
+
+  .note {
+    color: #4A5567;
+  }
+
+
+
+.galery {
+    background-color: #F2F2F2;
+    padding-top:80px;
+    text-align: center;
+ }
+
+ .beige {
+     background-color: #F2EDE7;
+ }
+
+img {
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 12px rgba(0, 0, 0, 0.14);
+    border-radius: 4px;
+    margin: 0 auto;
+    margin-bottom: 80px;
+}
+
+.no-shadow {
+    box-shadow: none;
+}
+
+@media (max-width: 1440px) {
+    img {
+        max-width: 1200px;
+    }
+}
+
+@media (max-width: 1100px) {
+    img {
+        max-width: 1080px;
+    }
+}
+
+@media (max-width: 700px) {
+    img {
+        max-width: 640px;
+    }
+}
+
+@media (max-width: 400px) {
+    img {
+        max-width: 320px;
+    }
+}
