@@ -45,12 +45,6 @@ section {
     background: #4ECBA3;
 }
 
-
-.change-bg {
-    background: #D7FFF2;
-}
-
-
 .tokenville {
     background: #FFBE28;
 }
@@ -135,6 +129,11 @@ a .white-hover{
  .beige {
      background-color: #F2EDE7;
  }
+
+.change-bg {
+     background-color: #D7FFF2;
+ }
+
 
 img {
     box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 12px rgba(0, 0, 0, 0.14);
