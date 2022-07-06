@@ -42,8 +42,14 @@ section {
 
 
 .change {
+    background: #4ECBA3;
+}
+
+
+.change-bg {
     background: #D7FFF2;
 }
+
 
 .tokenville {
     background: #FFBE28;
