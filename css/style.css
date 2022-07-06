@@ -35,8 +35,14 @@ section {
     padding-bottom: 80px;
 }
 
+
 .mybit {
     background: #2E58DB;
+}
+
+
+.change {
+    background: #D7FFF2;
 }
 
 .tokenville {
